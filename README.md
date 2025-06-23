@@ -11,8 +11,8 @@ Aidbill is an AI-first platform that helps patients understand, dispute, and tak
 ## 🔧 Tech Stack
 
 - **Frontend**: Next.js 15, React 19, TailwindCSS, shadcn/ui
-- **Auth**: Clerk (or Supabase Auth)
-- **Backend**: Supabase (Postgres, Storage), Next.js API Routes
+- **Auth**: Clerk 
+- **Backend**: Convex (Postgres, Storage), Next.js API Routes
 - **AI**: OpenAI GPT-4o (LangGraph pipeline)
 - **OCR**: Google Vision API / Tesseract.js
 - **Automation**: n8n for background workflows
